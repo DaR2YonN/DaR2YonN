@@ -1,4 +1,4 @@
-# 👋 I am irfan Uğuz. [DaR2YonN 😉 (!)]
+# 👋 I am İrfan Uğuz. [DaR2YonN 😉 (!)]
 
 **System Administration | Network & Network Security Enthusiast | No-Code Developer**
 
