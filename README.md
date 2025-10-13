@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm someone who focuses on developing my skills in systems administration, networking, and network security. I love exploring and learning about different aspects of technology. In my spare time, I also work on developing end-to-end solutions using the Vibe coding approach.
+I'm someone who focuses on developing my skills in systems administration, networking and network security. I love exploring and learning about different aspects of technology. In my spare time, I also work on developing end-to-end solutions using the Vibe coding approach.
 
 
 ## 📫 Get In Touch
