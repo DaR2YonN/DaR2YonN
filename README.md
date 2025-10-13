@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm someone who focuses on self-improvement in systems administration, networking, and network security. I love exploring and learning about different aspects of technology. In my spare time, I also work on developing no-code, end-to-end solutions using artificial intelligence.
+I'm someone who focuses on self-improvement in systems administration, networking and network security. I love exploring and learning about different aspects of technology. In my spare time, I also work on developing no-code, end-to-end solutions using artificial intelligence.
 
 
 ## 📫 Get In Touch
