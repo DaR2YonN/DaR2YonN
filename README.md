@@ -1,10 +1,10 @@
 # 👋 I am İrfan Uğuz. [DaR2YonN 😉 (!)]
 
-**System Administration | Network & Network Security Enthusiast | No-Code Developer**
+**System Administration | Network & Network Security Enthusiast | Vibe Coder**
 
 ## 🚀 About Me
 
-I'm someone who focuses on self-improvement in systems administration, networking and network security. I love exploring and learning about different aspects of technology. In my spare time, I also work on developing no-code, end-to-end solutions using artificial intelligence.
+I'm someone who focuses on developing my skills in systems administration, networking, and network security. I love exploring and learning about different aspects of technology. In my spare time, I also work on developing end-to-end solutions using the Vibe coding approach.
 
 
 ## 📫 Get In Touch
