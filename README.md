@@ -38,12 +38,12 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 ### 📈 GitHub İstatistikleri
 <p align="center">
-  <!-- Commit Serisi (Streak) -->
-  <img
-    src="https://streak-stats.demolab.com/?user=DaR2YonN&theme=tokyonight&hide_border=true"
-    width="75%"
-    alt="GitHub Streak"
-  />
+  
+  <!-- Streak (Commit Serisi) -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DaR2YonN&theme=tokyonight"  width="49.4%" />
+  </a>
+
 </p>
 
 
