@@ -38,44 +38,15 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 ### 📈 GitHub İstatistikleri
 <p align="center">
-
-  <!-- Profil İstatistikleri -->
-  <a href="https://github.com/DaR2YonN">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaR2YonN&show_icons=true&theme=tokyonight&hide=issues&count_private=true"  width="49.4%" />
-  </a>
-
-  <!-- Streak (Commit Serisi) -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DaR2YonN&theme=tokyonight"  width="49.4%" />
-  </a>
-
-  <!-- En Çok Kullanılan Diller -->
-  <a href="https://github.com/DaR2YonN?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaR2YonN&layout=compact&theme=tokyonight&hide_border=true"  width="49.4%" />
-  </a>
-
-  <!-- Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DaR2YonN&theme=tokyonight&column=3&no-frame=true" width="49.4%" />
-  </a>
-
-</p>
-
-
-### 📈 GitHub İstatistikleri
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DaR2YonN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-    width="400"
-    alt="GitHub Stats" />
-
+  <!-- Commit Serisi (Streak) -->
   <img
     src="https://streak-stats.demolab.com/?user=DaR2YonN&theme=tokyonight&hide_border=true"
-    width="400"
-    alt="GitHub Streak" />
-
+    width="75%"
+    alt="GitHub Streak"
+  />
 </p>
+
+
 
 ### 🌐 Sosyal
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/irfan-u%C4%9Fuz-185936333?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
