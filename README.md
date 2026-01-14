@@ -48,7 +48,7 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 
 
-### 🌐 Sosyal
+### 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/irfan-u%C4%9Fuz-185936333?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaR2YonN)
 
