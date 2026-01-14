@@ -61,6 +61,22 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 </p>
 
+
+### 📈 GitHub İstatistikleri
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DaR2YonN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    width="400"
+    alt="GitHub Stats" />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=DaR2YonN&theme=tokyonight&hide_border=true"
+    width="400"
+    alt="GitHub Streak" />
+
+</p>
+
 ### 🌐 Sosyal
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/irfan-u%C4%9Fuz-185936333?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaR2YonN)
