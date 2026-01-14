@@ -8,11 +8,11 @@
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 I'm someone who focuses on developing my skills in systems administration, networking and network security. I love exploring and learning about different aspects of technology. In my spare time, I also work on developing end-to-end solutions using the Vibe coding approach.
   
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Tools & Platforms
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -25,6 +25,10 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679B1?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4F6B93?style=for-the-badge&logo=nmap&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/-EVE--NG-3E77B6?style=for-the-badge&logoColor=white)
 
 ### 📡 Networking
 - Experience developing applications on OSI Reference Model layers. 
@@ -58,7 +62,7 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 </p>
 
 ### 🌐 Sosyal
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/KULLANICI_ADINIZ](https://tr.linkedin.com/in/irfan-u%C4%9Fuz-185936333?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/irfan-u%C4%9Fuz-185936333?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaR2YonN)
 
 ---
