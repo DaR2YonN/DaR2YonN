@@ -36,7 +36,7 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 - Practical experience with VLANs, subnetting, and TCP/IP protocols.  
 
 
-### 📈 GitHub İstatistikleri
+### 📈 GitHub Statistics
 <p align="center">
   
   <!-- Streak (Commit Serisi) -->
