@@ -44,7 +44,7 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 </div>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DaR2YonN&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaR2YonN&theme=tokyonight&hide_border=true" />
 </p>
 
 
