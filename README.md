@@ -39,6 +39,7 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 ### 📈 GitHub Statistics
 
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DaR2YonN)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
