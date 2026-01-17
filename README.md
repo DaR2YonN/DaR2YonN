@@ -38,15 +38,10 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 ### 📈 GitHub Statistics
 
-<div align="center">
-
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DaR2YonN&theme=radical&icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-</div>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DaR2YonN&theme=tokyonight&icons=true" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DaR2YonN&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DaR2YonN&theme=radical&icons=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DaR2YonN&layout=compact&theme=radical" />
 </p>
 
 
