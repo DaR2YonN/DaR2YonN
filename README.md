@@ -44,10 +44,10 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DaR2YonN&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DaR2YonN&theme=tokyonight&icons=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DaR2YonN&layout=compact&theme=tokyonight" />
+</p>
 
 
 ### 🌐 Social
