@@ -38,10 +38,10 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 ### 📈 GitHub Statistics
 <p align="center">
-  
+
   <!-- Streak (Commit Serisi) -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DaR2YonN&theme=tokyonight"  width="49.4%" />
+    <img src="https://streak-stats.demolab.com/?user=DaR2YonN&theme=tokyonight&cache_seconds=86400" width="49.4%" />
   </a>
 
 </p>
