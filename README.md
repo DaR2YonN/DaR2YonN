@@ -40,7 +40,7 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 <div align="center">
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DaR2YonN&theme=tokyonight&icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DaR2YonN&theme=radical&icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
 
