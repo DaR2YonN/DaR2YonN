@@ -37,8 +37,9 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 
 ### 📈 GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaR2YonN&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DaR2YonN)](https://git.io/streak-stats)
+</p>
 
 
 ### 🌐 Social
