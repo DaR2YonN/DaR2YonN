@@ -44,6 +44,10 @@ I'm someone who focuses on developing my skills in systems administration, netwo
 
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DaR2YonN&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
 
 
 ### 🌐 Social
